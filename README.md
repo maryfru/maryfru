@@ -1,4 +1,4 @@
-<img alt="nice to meet you" width="400" src="https://user-images.githubusercontent.com/121255853/219863916-8c18b006-40aa-4341-b14c-ac21cdfbe72d.png"/>
+<img align="right" alt="nice to meet you" width="400" src="https://user-images.githubusercontent.com/121255853/219863916-8c18b006-40aa-4341-b14c-ac21cdfbe72d.png"/>
 
 # Hey! 👋
 ### I'm Mary from Romania! 
