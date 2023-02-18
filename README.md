@@ -11,4 +11,3 @@ I'm kind of new to web development but I really enjoy learning languages and fra
 ## Skills and Experience (more to come in the future 🙈)
 * 💻 HTML, CSS, JS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryfru)](https://github.com/anuraghazra/github-readme-stats)
