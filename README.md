@@ -9,4 +9,7 @@ I'm kind of new to web development but I really enjoy learning languages and fra
 
 ## Skills and Experience (more to come in the future 🙈)
 * 💻 HTML, CSS, JS
+* 🌍 Teamcenter, BMIDE 
 
+## 📊 Github Stats and Activity </h2>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maryfru&theme=highcontrast)](https://git.io/streak-stats)
